@@ -1,0 +1,93 @@
+body{
+    background-color: black;
+}
+#home{
+    background-image: url(./maximalfocus-HakTxidk36I-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; 
+    border-bottom: 10px solid rgb(125, 11, 30) ;
+}
+
+#about{
+   
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.nav-link{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+
+.nav-link:hover{
+    border-top: 5px rgb(202, 11, 43) solid ;
+    color: rgba(205, 61, 90, 0.986)
+}
+
+
+
+.hello{
+    margin-top: 30vh;
+    margin-left: 30%;
+    color: white;
+    width: 40%;
+    
+}
+
+.welcome{
+    margin-left: 10%;
+    color: rgb(229, 70, 97);
+    width: 40%;
+}
+
+.port-i{
+    color: white;
+}
+
+.about-cont{
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+.card{
+    background-color: black;
+    
+    border-left: 5px solid   rgb(229, 70, 97);
+    box-shadow: 10px 10px 10px pink;
+    
+}
+
+.card-header{
+    background-color: none;
+    color: white;
+    font-size: 50px;
+    text-transform: uppercase   ;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.card-text{
+    font-size: 20px;
+}
+
+.progress{
+    height: 50px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.progress-bar{
+    background-color: rgb(235, 117, 0);
+}
+
+footer{
+    border-top: 5px rgb(202, 11, 43) solid ;
+    
+    
+}
+.container{
+    color: white;
+}
